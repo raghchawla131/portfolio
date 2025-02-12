@@ -1,7 +1,7 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faNodeJs, faPython } from '@fortawesome/free-brands-svg-icons'; // Import faNodeJs
+import { faReact, faNodeJs } from '@fortawesome/free-brands-svg-icons'; // Import faNodeJs
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
