@@ -8,9 +8,9 @@ function Footer() {
   return (
     <footer>
       <div>
-        <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
-        <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-        <a href="https://drive.google.com/file/d/1nnay6iEVGzHQrBmVtEt6EccZt_fm-aNS/view?usp=drivesdk " target="_blank" rel="noreferrer"><ArticleIcon/></a>
+        <a href="https://www.linkedin.com/in/raghav-chawla-170984245/" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
+        <a href="https://github.com/raghchawla131" target="_blank" rel="noreferrer"><GitHubIcon /></a>
+        <a href="https://drive.google.com/file/d/1nnay6iEVGzHQrBmVtEt6EccZt_fm-aNS/view?usp=drivesdk " target="_blank" rel="noreferrer"><ArticleIcon /></a>
       </div>
     </footer>
   );
